@@ -426,7 +426,8 @@ function setup(){
 図形や色や繰り返しの回数などを変更して、色々試してみよう。
 <img src="fig/fig30.png" width=250><img src="fig/fig31.png" width=250><img src="fig/fig32.png" width=250><img src="fig/fig33.png" width=250>
 
+---
 
-
-
-
+<!-- _class: lead -->
+### 最後に印刷して額縁に飾ろう
+https://kikpond15.github.io/code2frame/
