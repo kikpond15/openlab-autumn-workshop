@@ -418,4 +418,7 @@ function draw() {
 <img src="fig/fig18.png" width=350> 
 <img src="fig/fig19.png" width=350> 
 
-
+---
+<!-- _class: lead -->
+### 最後に印刷して額縁に飾ろう
+https://kikpond15.github.io/code2frame/
